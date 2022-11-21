@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vajumakwana16
+- 👋 Hi, I’m Vaju Makwana
 - 👀 I’m Flutter Developer
 - 🌱 I’m currently updating my skills. 
 - 📫 How to reach me : vajumakwana16@gmail.com
