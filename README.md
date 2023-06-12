@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Vaju Makwana
-- 👀 I’m Flutter Developer
+- 👀 Flutter Enthusiastic.
 - 🌱 I’m currently updating my skills. 
 - 📫 Reach me at : vajumakwana16@gmail.com
 
