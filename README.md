@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vaju Makwana
 - 👀 Flutter Enthusiastic.
-- 🌱 I’m currently updating my skills. 
+- 🌱 Updating skills. 
 - 📫 Reach me at : vajumakwana16@gmail.com
 
 <!---
