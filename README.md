@@ -1,8 +1,5 @@
 <div align="center">
 
-<!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=300&section=header&text=ThinkFlow%20Studio&fontSize=90&fontAlignY=38&desc=Where%20thinking%20meets%20productivity&descAlignY=55&descAlign=50&animation=fadeIn" alt="Header"/>
-
 <!-- Animated Typing -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=100&lines=Flutter+Developer+%F0%9F%9A%80;Building+Beautiful+Apps+%F0%9F%8E%A8;Creating+Productivity+Tools+%F0%9F%92%AA;Open+Source+Enthusiast+%F0%9F%8C%9F" alt="Typing SVG" /></a>
 
@@ -29,7 +26,6 @@
 name: Vaju Makwana
 located_in: Jamnagar, Gujarat, India
 current_focus: Building productivity & brain training apps
-company: ThinkFlow Studio
 education: 
   - Bachelor's in Computer Science
   - Self-taught Flutter Developer
@@ -48,11 +44,6 @@ motto: "Code with purpose, design with intention"
 
 I'm an **indie app developer** creating beautiful, science-backed mobile applications that help people think clearer, focus deeper, and achieve more. My apps combine cutting-edge design with proven psychology principles.
 
-**🌟 Featured Apps:**
-- 📱 **FocusX** - Pomodoro timer for deep work and peak productivity
-- 🧩 **Puzzle Master** - Brain training through beautiful sliding puzzles
-- ✅ **TodoX** - Simple, elegant task management
-
 ---
 
 ## 💻 Tech Stack
@@ -63,15 +54,13 @@ I'm an **indie app developer** creating beautiful, science-backed mobile applica
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Frameworks & Libraries
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -82,7 +71,6 @@ I'm an **indie app developer** creating beautiful, science-backed mobile applica
 
 ### Databases
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 </div>
@@ -105,144 +93,46 @@ I'm an **indie app developer** creating beautiful, science-backed mobile applica
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=vajumakwana16&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&column=7&rank=-C,-?)
-
-</div>
-
----
-
-## 🎨 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/vajumakwana16/vajumakwana16.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vajumakwana16&repo=vajumakwana16.github.io&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=10B981&text_color=C9D1D9" />
-</a>
-
-<!-- Add your other repos here -->
-
-</div>
-
----
-
-## 📱 My Apps on Google Play
-
-<div align="center">
-
-| 🎯 FocusX | 🧩 Puzzle Master | ✅ TodoX |
-|:---:|:---:|:---:|
-| **Pomodoro Focus Timer** | **Brain Training** | **Task Management** |
-| Deep work sessions | Beautiful sliding puzzles | Simple & elegant |
-| Boost productivity | Sharpen your mind | Get organized |
-| ⭐ 10+ Downloads | ⭐ 10+ Downloads | ⭐ 10+ Downloads |
-
-[**Download on Google Play →**](https://play.google.com/store/apps/dev?id=5929597072015420935)
-
-</div>
-
----
-
 ## 💼 Work Experience
 
 ```javascript
-const experience = {
-  current: {
-    role: "Independent App Developer",
-    company: "ThinkFlow Studio",
-    period: "2023 - Present",
-    focus: "Building productivity & brain training apps for Android",
-    technologies: ["Flutter", "Dart", "Firebase", "Google Play Console"],
-    achievements: [
-      "Published 3 apps on Google Play Store",
-      "Designed complete brand identity from scratch",
-      "Implemented science-backed features for cognitive training",
-      "Maintained 4.5+ star ratings across all apps"
-    ]
-  },
+const developer = {
+  name: "Vaju Makwana",
+  role: "Flutter Developer",
+  experience: "4+ years",
   
-  skills: {
-    mobile: ["Flutter", "Android Development", "iOS Development"],
-    design: ["UI/UX Design", "Figma", "Material Design", "App Icons"],
-    backend: ["Firebase", "REST APIs", "Node.js"],
-    other: ["Git", "Agile", "App Store Optimization", "User Research"]
+  about: `Passionate mobile app developer with over 4 years of experience in creating 
+          beautiful, user-centric applications. Currently specializing in Flutter development, 
+          building cross-platform apps that combine elegant design with robust functionality. 
+          Expertise in the complete app development lifecycle from concept to deployment, 
+          with a focus on productivity tools and cognitive training applications.`,
+  
+  expertise: [
+    "Flutter & Dart Development",
+    "Cross-platform Mobile Apps (iOS & Android)",
+    "UI/UX Design & Implementation",
+    "State Management (Provider, Riverpod, Bloc)",
+    "RESTful API Integration",
+    "App Store Optimization",
+    "User Experience Research"
+  ],
+  
+  achievements: [
+    "Published 3+ apps on Google Play Store",
+    "Designed complete brand identities from scratch",
+    "Implemented science-backed features for productivity apps",
+    "Maintained high user ratings (4.5+) across all applications",
+    "Built apps used by thousands of users worldwide"
+  ],
+  
+  techStack: {
+    mobile: ["Flutter", "Dart", "React Native", "Android", "iOS"],
+    design: ["Figma", "Adobe XD", "Material Design", "Custom UI Components"],
+    backend: ["Node.js", "REST APIs", "MongoDB", "SQLite"],
+    tools: ["Git", "VS Code", "Android Studio", "Postman", "Firebase"]
   }
 };
 ```
-
----
-
-## 🌱 Currently Learning
-
-<div align="center">
-
-```mermaid
-mindmap
-  root((Skills 2025))
-    Advanced Flutter
-      Animations
-      Custom Widgets
-      State Management
-    Backend Development
-      Node.js
-      Express
-      MongoDB
-    DevOps
-      CI/CD
-      Docker
-      GitHub Actions
-    Design
-      Advanced UI/UX
-      Motion Design
-      Accessibility
-```
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/vajumakwana16/vajumakwana16/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
-## 🎯 2025 Goals
-
-- [ ] 🚀 Reach **10,000+ downloads** on Google Play
-- [ ] 📱 Launch **2 new apps** with advanced features
-- [ ] 🌟 Contribute to **open source Flutter packages**
-- [ ] 📝 Write **technical blog posts** about mobile development
-- [ ] 🎨 Master **advanced Flutter animations**
-- [ ] 🤝 Collaborate on **exciting projects** with other developers
-- [ ] 📊 Achieve **100+ GitHub stars** across all repositories
-
----
-
-## 💭 Random Dev Quote
-
-<div align="center">
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true)
-
-</div>
-
----
-
-## 🎵 Coding Soundtrack
-
-<div align="center">
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31l26uijzthx6npty6rqvkb7ksfi&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=true&bar_color=6366f1&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31l26uijzthx6npty6rqvkb7ksfi&redirect=true)
-
-</div>
 
 ---
 
@@ -250,25 +140,91 @@ mindmap
 
 <div align="center">
 
+### 💬 Get in Touch
+
 I'm always excited to connect with fellow developers, discuss new ideas, or collaborate on interesting projects!
-
-### 💌 Reach Out
-
-**Email:** [vajumakwana16@gmail.com](mailto:vajumakwana16@gmail.com)  
-**Portfolio:** [vajumakwana16.github.io](https://vajumakwana16.github.io)  
-**LinkedIn:** [Connect with me](https://linkedin.com/in/vajumakwana)  
-
-### 🌟 Support My Work
-
-If you like my apps or find my code helpful, consider:
-- ⭐ Starring my repositories
-- 📱 Downloading my apps from Google Play
-- 💬 Leaving feedback and suggestions
-- 🤝 Contributing to my open source projects
 
 <br/>
 
-**"The best way to predict the future is to create it."** 💡
+### 📧 Contact Information
+
+<table>
+  <tr>
+    <td align="center" width="200">
+      <a href="mailto:vajumakwana16@gmail.com">
+        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+      </a>
+      <br/>
+      <sub><b>vajumakwana16@gmail.com</b></sub>
+    </td>
+    <td align="center" width="200">
+      <a href="https://vajumakwana16.github.io">
+        <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+      </a>
+      <br/>
+      <sub><b>Visit My Portfolio</b></sub>
+    </td>
+    <td align="center" width="200">
+      <a href="https://linkedin.com/in/vajumakwana">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+      </a>
+      <br/>
+      <sub><b>Connect on LinkedIn</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="200">
+      <a href="https://play.google.com/store/apps/dev?id=5929597072015420935">
+        <img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play"/>
+      </a>
+      <br/>
+      <sub><b>Check Out My Apps</b></sub>
+    </td>
+    <td align="center" width="200">
+      <a href="https://github.com/vajumakwana16">
+        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+      </a>
+      <br/>
+      <sub><b>Follow on GitHub</b></sub>
+    </td>
+    <td align="center" width="200">
+      <a href="https://twitter.com/vajumakwana16">
+        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+      </a>
+      <br/>
+      <sub><b>Follow on Twitter</b></sub>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+### 🤝 Open to Opportunities
+
+- 💼 **Freelance Projects** - Mobile app development
+- 🤝 **Collaborations** - Open source contributions
+- 💡 **Consulting** - Flutter & mobile development
+- 📱 **App Ideas** - Turn your vision into reality
+
+<br/>
+
+### ⭐ Support My Work
+
+If you find my work helpful or interesting:
+
+- ⭐ **Star** my repositories
+- 🍴 **Fork** and contribute to projects
+- 📱 **Download** my apps from Google Play
+- 💬 **Share** feedback and suggestions
+- 🤝 **Connect** and let's build something amazing together!
+
+<br/>
+
+---
+
+<br/>
+
+**💡 "The best way to predict the future is to create it."**
 
 <br/>
 
